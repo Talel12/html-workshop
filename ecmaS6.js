@@ -4,3 +4,5 @@ const n=["b","c","z","w"]
 
 
 console.log(s.filter(el=>n.includes(el)))
+
+console.log("New dom element")
